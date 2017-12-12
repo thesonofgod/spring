@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.codewithshan.springdemo.entity.Entity&apos; to &apos;Customer&apos;&#x0A;- Original project: &apos;web-customer-tracker&apos;&#x0A;- Original element: &apos;com.codewithshan.springdemo.entity.Entity&apos;&#x0A;- Renamed element: &apos;com.codewithshan.springdemo.entity.Customer&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Entity&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.codewithshan.springdemo.entity{Entity.java[Entity" matchStrategy="1" name="Customer" qualified="false" references="true" similarDeclarations="false" stamp="1505666605192" textual="false" version="1.0"/>
+</session>

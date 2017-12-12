@@ -1,0 +1,5 @@
+package com.codewithshan.hibernate.demo.entity;
+
+public class Course {
+
+}
